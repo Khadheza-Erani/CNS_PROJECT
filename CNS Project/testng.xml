@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="All Test Suite">
+    <test verbose="2" preserve-order="true" name="F:/CNS Project/CPA_PROJECT/src/test/java/testcases">
+        <classes>
+            <class name="testcases.TestDashBoard">
+                <methods>
+                    <include name="testDashBoardTitle"/>
+                </methods>
+            </class>
+            <class name="testcases.TestHomePage">
+                <methods>
+                    <include name="testHomePageTitle"/>
+                    <include name="testHomePageUrl"/>
+                    <include name="testHomePageDashBoardButton"/>
+                    <include name="testHomePageLogInButton"/>
+                </methods>
+            </class>
+            <class name="testcases.TestJobSelection">
+                <methods>
+                    <include name="testJobSelectionProcess"/>
+                </methods>
+            </class>
+            <class name="testcases.TestLogInPage">
+                <methods>
+                    <include name="testLogInPage"/>
+                </methods>
+            </class>
+            <class name="testcases.TestOnlineApplicationFormPage">
+                <methods>
+                    <include name="testCandidateOnlineApplicationFormPageProcess"/>
+                </methods>
+            </class>
+        </classes>
+    </test>
+</suite>
