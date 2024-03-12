@@ -92,7 +92,7 @@ allure open ./allure-report
 
 6. ### Create & Verify Adress page
 	> In the test case you need to validate the following field values:
-	      1. > Permanent DIVISION 
+        1. > Permanent DIVISION 
         2. > Permanent DISTRICT
       	3. > Permanent THANA/UPAZILA
         4. > Permanent POST OFFICE
@@ -108,66 +108,35 @@ allure open ./allure-report
       
 7. ### Create & Verify Education page
 	> In the test case you need to validate the following field values:
-	     1. > EDUCATION LEVEL
-	     2. > EXAM
-	     3. > SUBJECT
-	     4. > PASSING YEAR
-	     5. > Next button
+        1. > EDUCATION LEVEL
+        2. > EXAM
+        3. > SUBJECT
+        4. > PASSING YEAR
+        5. > Next button
 	
 8. ### Create & Verify  Job Experience page
 	> In the test case you need to validate the following field values:
-	     1. > ORGANIZATION
-       2. > DESIGNATION
-       3. > START DATE
-	     4. > END DATE
-	     5. > Next button
+        1. > ORGANIZATION
+        2. > DESIGNATION
+        3. > START DATE
+        4. > END DATE
+        5. > Next button
 8. ### Create & Verify Certificate page
 	> In the test case you need to validate the following field values:
-       1. > COURSE 
-       2. > DURATION
-	     3. > Time
-	     4. > Next button
+        1. > COURSE 
+        2. > DURATION
+        3. > Time
+        4. > Next button
 8. ### Create & Verify  Complete page
 	> In the test case you need to validate the following field values:
-	     1. > Declaration Checkbox
-	     2. > Previous Button
-	     3. > Complete Button
-       4. > Allert Okay Button
+        1. > Declaration Checkbox
+        2. > Previous Button
+        3. > Complete Button
+        4. > Allert Okay Button
 
 
 ## Allure Report Summary:
 ![Allure Summary](https://github.com/Khadheza-Erani/CNS_PROJECT.git)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
